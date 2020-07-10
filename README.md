@@ -1,4 +1,9 @@
-# LATI Toxicity Explorer
+# [DEPRECATED] LATI Toxicity Explorer
+
+I'm moving this to a new codebase - this is going away
+
+---
+
 
 For visualising Language-agnostic Toxicity indicators
 
